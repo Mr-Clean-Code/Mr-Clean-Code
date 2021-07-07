@@ -1,19 +1,24 @@
 ## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Mr-Clean-Code/Mr-Clean-Code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Josue Solares and I am training at Truckee Meadows Community College in their Full Stack Web Development Program as I transition from my previous career.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My background and experience is in Marketing with an A.A. from Fullerton College in Business Administration.
 
-### Markdown
+You can see the source code of this page by clicking here:[editor on GitHub](https://github.com/Mr-Clean-Code/Mr-Clean-Code/edit/gh-pages/index.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This GitHub Page is running on [Jekyll](https://jekyllrb.com/) 
+
+### Courses I have taken
+
+at TMCC, FreeCodeCamp.org and Udacity.
 
 ```markdown
-Syntax highlighted code block
+Courses Completed
 
-# Header 1
-## Header 2
-### Header 3
+## SQL - CIT 107
+## P5.js CIT 128
+## HTML5 CIT 151 A
+## CSS3  CIT 151 B
 
 - Bulleted
 - List
